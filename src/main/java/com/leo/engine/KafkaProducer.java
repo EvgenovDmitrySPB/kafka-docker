@@ -1,6 +1,6 @@
-package com.layo.kafkaexample.engine;
+package com.leo.engine;
 
-import com.layo.kafkaexample.model.Message;
+import com.leo.model.Message;
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;

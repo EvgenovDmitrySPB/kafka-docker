@@ -1,6 +1,6 @@
-package com.layo.kafkaexample.configuration;
+package com.leo.configuration;
 
-import com.layo.kafkaexample.model.Message;
+import com.leo.model.Message;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.clients.producer.RecordMetadata;

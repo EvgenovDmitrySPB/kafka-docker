@@ -1,7 +1,7 @@
-package com.layo.kafkaexample.controller;
+package com.leo.controller;
 
-import com.layo.kafkaexample.engine.KafkaProducerExample;
-import com.layo.kafkaexample.model.Message;
+import com.leo.engine.KafkaProducerExample;
+import com.leo.model.Message;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

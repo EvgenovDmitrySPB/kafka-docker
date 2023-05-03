@@ -1,6 +1,6 @@
-package com.layo.kafkaexample.engine;
+package com.leo.engine;
 
-import com.layo.kafkaexample.model.Message;
+import com.leo.model.Message;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;

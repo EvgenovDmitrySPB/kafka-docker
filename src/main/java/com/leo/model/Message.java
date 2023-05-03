@@ -1,4 +1,4 @@
-package com.layo.kafkaexample.model;
+package com.leo.model;
 
 import lombok.Data;
 

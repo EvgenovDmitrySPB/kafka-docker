@@ -1,6 +1,6 @@
-package com.layo.kafkaexample.configuration;
+package com.leo.configuration;
 
-import com.layo.kafkaexample.model.Message;
+import com.leo.model.Message;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.beans.factory.annotation.Value;
